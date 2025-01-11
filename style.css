@@ -66,6 +66,7 @@ body {
     font-family: "Fira Sans", serif;
     font-size: 16px;
     color: #5c5b5b;
+    line-height: 24px;
     /* margin: 0px; */
   }
   .cards-section {
@@ -105,6 +106,7 @@ body {
       margin: 0px;
       color: #525252;
       font-family: "Fira Sans", serif;
+      line-height: 24px;
     }
     .Future-button-all {
       border: none;
@@ -160,6 +162,7 @@ body {
     font-family: "Fira Sans", serif;
     margin: 0;
     color: #424242;
+    line-height: 24px;
     &:nth-of-type(2) {
       color: #5c5b5b;
     }
@@ -184,6 +187,7 @@ body {
     font-family: "Fira Sans", serif;
     font-size: 16px;
     color: #5c5b5b;
+    line-height: 24px;
     /* margin: 0px; */
   }
   .news-section {
@@ -231,6 +235,7 @@ body {
     text-align: center;
     width: 1104px;
     margin: 24px auto;
+    line-height: 24px;
   }
   .donate-selection {
     display: flex;
@@ -291,6 +296,7 @@ body {
     text-align: center;
     width: 622px;
     margin: 0;
+    line-height: 24px;
   }
   .subscribe-sec{
     width: 750px;
