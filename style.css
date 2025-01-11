@@ -4,6 +4,7 @@
 body {
   background-color: #f1f1f3;
 }
+
 /* button-primary */
 .button-primary {
   background-color: #006a50;
@@ -19,6 +20,7 @@ body {
   background: #f3faf8;
   cursor: pointer;
 }
+
 /* banner-secion */
 .banner-secion {
   display: flex;
@@ -50,9 +52,9 @@ body {
     height: 400px;
   }
 }
+
 /* Vision of Future */
-.Vision-Future {
-  /* background-color: red; */
+.vision-Future {
   max-width: 1280px;
   width: 100%;
   margin: 0 auto 80px auto;
@@ -67,7 +69,6 @@ body {
     font-size: 16px;
     color: #5c5b5b;
     line-height: 24px;
-    /* margin: 0px; */
   }
   .cards-section {
     display: flex;
@@ -146,6 +147,7 @@ body {
     }
   }
 }
+
 /* Quote Section */
 .quote-section {
   background-image: url(./assets/quote-bg.png);
@@ -174,7 +176,7 @@ body {
 }
 
 /* Recent News */
-.Recent-News {
+.recent-News {
   max-width: 1280px;
   width: 100%;
   margin: 0 auto 40px auto;
@@ -216,6 +218,7 @@ body {
     gap: 12px;
   }
 }
+
 /* Donate today */
 .donate-today {
   display: flex;
@@ -272,15 +275,16 @@ body {
     margin-top: 32px;
   }
 }
+
 /* Newsletter */
 .newsletter {
-    display: flex;
+  display: flex;
   flex-direction: column;
   align-items: center;
   max-width: 1280px;
   width: 100%;
-  margin:0 auto 40px auto;
-  background-color: #C6E4D6;
+  margin: 0 auto 40px auto;
+  background-color: #c6e4d6;
   padding: 70px 100px;
   border-radius: 25px;
   h3 {
@@ -298,21 +302,19 @@ body {
     margin: 0;
     line-height: 24px;
   }
-  .subscribe-sec{
+  .subscribe-sec {
     width: 750px;
     margin: 25px auto;
     display: flex;
   }
-  input{
+  input {
     width: 100%;
     border: none;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-  }
-  input::placeholder {
     padding-left: 35px;
   }
-  button{
+  button {
     font-weight: bolder;
     padding: 15px 25px;
     border-top-left-radius: 0px;
